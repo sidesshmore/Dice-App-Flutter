@@ -14,7 +14,7 @@ This is a simple Flutter application that simulates rolling dice. The app allows
 
 
 
-Uploading Screen Recording 2023-06-12 at 10.01.51 AM.mov…
+https://github.com/sidesshmore/Dice-App-Flutter/assets/109675078/69146cf6-c52a-4931-af71-40e31fc0c555
 
 
 
@@ -57,14 +57,6 @@ Contributions to the Dice App Flutter project are welcome and encouraged. Here a
 - Suggest improvements or new features by creating a [pull request](https://github.com/sidesshmore/Dice-App-Flutter/pulls).
 
 Please make sure to follow the project's [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-The Dice App Flutter project was inspired by the popular dice rolling concept. Special thanks to the Flutter community for their contributions and support.
 
 ## Contact
 
