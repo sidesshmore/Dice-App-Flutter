@@ -14,7 +14,11 @@ This is a simple Flutter application that simulates rolling dice. The app allows
 
 
 
-https://github.com/sidesshmore/Dice-App-Flutter/assets/109675078/69146cf6-c52a-4931-af71-40e31fc0c555
+
+
+https://github.com/sidesshmore/Dice-App-Flutter/assets/109675078/2dfcb056-7aa0-4cbb-9596-dd6d7ae44336
+
+
 
 
 
