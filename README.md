@@ -1,6 +1,12 @@
-# first_app
+# Dice App
 
 A new Flutter project.
+
+
+
+https://github.com/sidesshmore/Dice-App-Flutter/assets/109675078/6ce5491e-349f-458d-abaf-f59521341ec5
+
+
 
 ## Getting Started
 
