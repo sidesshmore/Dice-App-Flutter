@@ -1,6 +1,7 @@
 # Dice App Flutter
-
 This is a simple Flutter application that simulates rolling dice. The app allows users to roll two dice and displays the results on the screen.
+
+https://github.com/sidesshmore/Dice-App-Flutter/assets/109675078/2dfcb056-7aa0-4cbb-9596-dd6d7ae44336
 
 ## Features
 
@@ -9,18 +10,6 @@ This is a simple Flutter application that simulates rolling dice. The app allows
 - The dice animation creates an interactive and engaging user experience.
 - The result of each roll is displayed on the screen.
 - The app provides a visually appealing user interface.
-
-## Screenshots
-
-
-
-
-
-https://github.com/sidesshmore/Dice-App-Flutter/assets/109675078/2dfcb056-7aa0-4cbb-9596-dd6d7ae44336
-
-
-
-
 
 ## Requirements
 
